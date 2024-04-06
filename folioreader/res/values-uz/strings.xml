@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kitob o\'quvchi</string>
+    <string name="copied">Ko\'chirildi</string>
+    <string name="send_to">Yuborish</string>
+    <string name="copy">Nusxa olish</string>
+    <string name="share">Ulashish</string>
+    <string name="define">Aniqlash</string>
+    <string name="highlight">Ajratish</string>
+    <string name="highlights">Eng muhimlar</string>
+    <string name="bookmarks">Xatcho‘plar</string>
+    <string name="error_CannotChangeStyle">Uslubni o\'zgartirib bo\'lmaydi!</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Bekor qilish</string>
+    <string name="SetSizeTitle">Yuqori panel hajmi:</string>
+    <string name="LanguageChooserTitle">Tilni tanlang:</string>
+    <string name="please_wait">Iltimos kuting...</string>
+    <string name="edit_notes">Eslatmangizni saqlang</string>
+    <string name="save_note">Eslatmani saqlang</string>
+    <string name="please_enter_note">iltimos, eslatma kiriting</string>
+    <string name="book_mark_success">Belgilangan!</string>
+    <string name="save_bookmark">Saqlash</string>
+    <string name="contents">Tarkib</string>
+    <string name="dictionary">Lug\'at</string>
+    <string name="menu_item_search">Qidiruv</string>
+    <string name="menu_item_config">Konfiguratsiya</string>
+    <string name="menu_item_tts">Matnni nutqqa</string>
+    <string name="search_hint">Kitobdan qidirish</string>
+    <string name="search_empty_text">Natija yoʻq.</string>
+    <string name="search_failure_text">Nimadir noto\'g\'ri bajarildi.</string>
+</resources>

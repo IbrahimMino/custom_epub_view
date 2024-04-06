@@ -43,10 +43,10 @@ Add following dependency to your root project `build.gradle` file:
 ```groovy
 allprojects {
     repositories {
-        ...
+      
         jcenter()
         maven { url "https://jitpack.io" }
-        ...
+      
     }
 }
 ```
@@ -55,9 +55,9 @@ Add following dependency to your app module `build.gradle` file:
 
 ```groovy
 dependencies {
-    ...
+    
     implementation "com.folioreader:folioreader:0.5.4"
-    ...
+    
 }
 ```
 
@@ -70,7 +70,7 @@ Enable Multidex support as explained in this [Android Doc](https://developer.and
 Get singleton object of `FolioReader`:
 
 ```java
-FolioReader folioReader = FolioReader.get();
+//FolioReader folioReader = FolioReader.get();
 ```
 
 Call the function `openBook()`:
@@ -78,12 +78,12 @@ Call the function `openBook()`:
 ##### opening book from assets -
 
 ```java
-folioReader.openBook("file:///android_asset/TheSilverChair.epub");
+//folioReader.openBook("file:///android_asset/TheSilverChair.epub");
 ```
 ##### opening book from raw -
 
 ```java
-folioReader.openBook(R.raw.accessible_epub_3);
+//folioReader.openBook(R.raw.accessible_epub_3);
 ```
 
 

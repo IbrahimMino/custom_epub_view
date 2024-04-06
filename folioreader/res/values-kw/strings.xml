@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Kitap oqıwshı "</string>
+    <string name="copied">Kóshirildi</string>
+    <string name="send_to">Jiberiw</string>
+    <string name="copy">"Nusqa alıw "</string>
+    <string name="share">Jalǵawısh</string>
+    <string name="define">"Anıqlaw "</string>
+    <string name="highlight">"Ajıratıw "</string>
+    <string name="highlights">Eń áhmiyetliler</string>
+    <string name="bookmarks">Xatcho\'plar</string>
+    <string name="error_CannotChangeStyle">Usıldı ózgertirip bolmaydı!</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">"Bıykarlaw "</string>
+    <string name="SetSizeTitle">Joqarı panel kólemi:</string>
+    <string name="LanguageChooserTitle">Tildi saylań :</string>
+    <string name="please_wait">"Ótinish kuting... "</string>
+    <string name="edit_notes">"Esletpeńizdi saqlań "</string>
+    <string name="save_note">"Esletpeni saqlań "</string>
+    <string name="please_enter_note">Ótinish, esletpe kiritiń</string>
+    <string name="book_mark_success">Belgilengen!</string>
+    <string name="save_bookmark">"Saqlaw "</string>
+    <string name="contents">"Quram "</string>
+    <string name="dictionary">Sózlik</string>
+    <string name="menu_item_search">"Qıdırıw "</string>
+    <string name="menu_item_config">Konfiguratsiya</string>
+    <string name="menu_item_tts">Tekstti sóylewqa</string>
+    <string name="search_hint">"Kitaptan qıdırıw "</string>
+    <string name="search_empty_text">Nátiyje joq.</string>
+    <string name="search_failure_text">Qandayda bir nadurıs atqarıldı.</string>
+</resources>

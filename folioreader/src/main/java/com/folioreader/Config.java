@@ -8,6 +8,7 @@ import android.util.Log;
 
 import androidx.annotation.ColorInt;
 import androidx.annotation.ColorRes;
+import androidx.annotation.NonNull;
 import androidx.core.content.ContextCompat;
 
 import org.json.JSONObject;
@@ -153,7 +154,7 @@ public class Config implements Parcelable {
     public Config(JSONObject obj) {
         try {
             font = getJsonItem(obj, CONFIG_FONT, "Roboto");
-        } catch(Exception e) {
+        } catch (Exception e) {
             Log.i("Parse Error", "Bundle does not exist, using default configuration.");
         }
         fontSize = getJsonItem(obj, CONFIG_FONT_SIZE, 2);
@@ -406,6 +407,7 @@ public class Config implements Parcelable {
         this.showRemainingIndicator = showRemainingIndicator;
     }
 
+    @NonNull
     @Override
     public String toString() {
         return "Config{" +

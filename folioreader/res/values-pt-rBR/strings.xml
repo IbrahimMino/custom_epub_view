@@ -27,7 +27,7 @@
     <string name="change_Font_Color">Cor da fonte</string>
     <string name="changeStyle">Trocar estilo</string>
     <string name="error_CannotChangeStyle">Não foi possível trocar o estilo</string>
-    <string name="OK">Ok</string>
+    <string name="OK">OK</string>
     <string name="SetSizeTitle">Painel superior</string>
     <string name="LanguageChooserTitle">Escolha 2 linguagens</string>
 </resources>
